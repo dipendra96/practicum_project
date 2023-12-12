@@ -1,4 +1,4 @@
-# practicum_project
+# Synthetic Medical Data Generation - Capgemini
 This repo is for Capgemini practicum project for generating medical and pharmacy claims data.
 
 ## Loading the data
