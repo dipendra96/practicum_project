@@ -15,6 +15,9 @@ See codes in Modeling folder.
 
 TabGen_Medical_Data.ipynb -> Code for generating synthetic medical claims data (transforming multiple rows into a unified context to handle time dependance) using GPT-2 finetuned model.
 
+TabGen_Merged_Pharmacy_Medical_data.ipynb -> Code for generating synthetic data combining both medical and pharmacy data.
+Transforming multiple rows into a unified context to handle time dependence) using GPT-2 finetuned model. 
+
 ## Evaluation
 See codes in Evaluation folder.
 
