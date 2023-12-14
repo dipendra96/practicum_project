@@ -13,7 +13,7 @@ Use merge_med_pharm_data.ipynb to merge the medical claims data with pharmacy cl
 ## Modeling
 See codes in Modeling folder.
 
-### todo
+TabGen_Medical_Data.ipynb -> Code for generating synthetic medical claims data (transforming multiple rows into a unified context to handle time dependance) using GPT-2 finetuned model.
 
 ## Evaluation
 See codes in Evaluation folder.
