@@ -2,6 +2,7 @@
 This repo is for our Capgemini-sponsored practicum project, containing the codebase for generating synthetic medical and pharmacy claims data.
 
 Report: https://docs.google.com/document/d/1Q1gPblzH8KUkVfYRrjhE1NDhKXckwzmv_UeXkuF2ECA/edit?usp=sharing
+
 Slides: https://drive.google.com/file/d/1DVrvQJAh5VSqXUa65Zi_u_NtCrd1v6Wd/view?usp=sharing
 
 ## Data Preprocessing
